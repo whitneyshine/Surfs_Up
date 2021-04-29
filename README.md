@@ -4,6 +4,8 @@
 
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year-round.<br>
 
+W. Avy does not just want to see a list of data; he wants to understand trends in the data. You know just the thing that will help; you are going to create a plot of precipitation scores in chronological order. Rather than simply showing him whether it rained on a given day, you will show him how much it rained and if it was raining on the previous or subsequent days as well. Remember, your goal is not just to crunch the numbers—it's to help W. Avy really feel good about his investment.<br>
+
 Using Python, Pandas functions and methods, and SQLAlchemy, you will filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. You will then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.<br><br>
 
 **Overview of the Analysis**<br><br>
