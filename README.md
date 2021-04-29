@@ -9,6 +9,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you will filter the 
 **Overview of the Analysis**<br><br>
 
 **Results**<br><br>
+In addition to the plot we just made, we want to make sure to provide solid statistical analysis—such as the mean, standard deviation, minimum, and maximum. We need hard results if we are going to invest money.
 
 **Summary**<br><br>
 Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
