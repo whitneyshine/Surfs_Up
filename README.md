@@ -9,7 +9,9 @@ W. Avy does not just want to see a list of data; he wants to understand trends i
 Using Python, Pandas functions and methods, and SQLAlchemy, you will filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. You will then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.<br><br>
 
 **Overview of the Analysis**<br><br>
-In addition to the plot we just made, we want to make sure to provide solid statistical analysis—such as the mean, standard deviation, minimum, and maximum. We need hard results if we are going to invest money.
+In addition to the plot we just made, we want to make sure to provide solid statistical analysis—such as the mean, standard deviation, minimum, and maximum. We need hard results if we are going to invest money.<br>
+
+Remember, your goal is to provide W. Avy with insight into the weather patterns of a specific location on Oahu where you would like to build your shop. One way to provide this insight is with a visualization—we'll plot the results of our precipitation analysis using Matplotlib.<br><br>
 
 **Results**<br><br>
 
