@@ -13,4 +13,4 @@ In addition to the plot we just made, we want to make sure to provide solid stat
 
 
 **Summary**<br><br>
-Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
+This will help solidify a repeatable process and make it easier to run this analysis again—for example, when we need to figure out where to open our second surf and ice cream shop.  Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
