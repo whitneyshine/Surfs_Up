@@ -11,3 +11,4 @@ Using Python, Pandas functions and methods, and SQLAlchemy, you will filter the 
 **Results**<br><br>
 
 **Summary**<br><br>
+Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
