@@ -14,6 +14,7 @@ Remember, your goal is to provide W. Avy with insight into the weather patterns 
 
 The results show for June that the low (minimum) temperature is 64 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is ~ 75 degrees.  Furthermore, the results show for December that the low (minimum) temperature is 56 degrees, the high (maximum) temperature is 83 degrees, and the average temperature is ~ 71 degrees.<br>
 
+![june_stats](june_stats.png)
 
 We will be creating a histogram from the temperature observations. This will allow us to quickly count how many temperature observations we have.  Looking at this plot, we can infer that a vast majority of the observations were over 65 degrees.  W. Avy has mentioned in the past that he does not just want to see a list of data results; he wants to understand trends in the data. Because of that, let's dive into the statistical data we have complied for him.  While this data shows all the station observations, we are interested in determining temperature trends.  One trend we can observe based on this plot is that some months have higher temperatures than others.  You know just the thing that will help; you are going to create a plot of precipitation scores in chronological order. Rather than simply showing him whether it rained on a given day, you will show him how much it rained and if it was raining on the previous or subsequent days as well. Remember, your goal is not just to crunch the numbers—it's to help W. Avy really feel good about his investment.<br>
 
