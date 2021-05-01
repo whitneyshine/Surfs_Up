@@ -33,9 +33,7 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 ![june_temps_graph](june_temps_graph.png)       ![december_temps_graph](december_temps_graph.png)<br>
 
-While this data shows all the station observations, we are interested in determining temperature trends.  One trend we can observe based on this plot is that some months have higher temperatures than others.<br><br>
 
-![december_temps_graph](december_temps_graph.png)<br><br>
 
 
 
