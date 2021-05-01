@@ -43,7 +43,7 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 ## Summary<br><br>
 
-**Recommendation**
+**Recommendation**<br>
 
 **Precipitation**<br>
 
