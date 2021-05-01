@@ -43,7 +43,7 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 ## Summary<br><br>
 
-**Recommendation**<br>
+**Summary**<br>
 Knowing the facts from above this data should not give W. Avy pause in preceding forward as the statistics endorse year-round participation for surfing and ice cream.  The statisical temperature catergories we ran for Oahu show W. Avy that the temperatures are consistently coupled within the two months analzyed.  The outside temperatures support  enjoyment will be had by all but conversely, one should ponder if the water temperatures are as predicitable and pleasant as the outside temperatures in Oahu.  What I believe W. Avy needs to consider before renting his first surfboard and/or selling his first ice cream to his first customer, would be the particulars around monthly precipitation and monthly wind speed.  In my final recommendation, I would advise running those two additional queries.<br><br>
 
 **Precipitation**<br>
@@ -53,6 +53,6 @@ Now, let us think about precipitation. There needs to be enough rain to keep eve
 **Wind Speed**<br><br>
 Seeing that we are nearly convinced of opening the surf and ice cream shop, let us consider assessing the wind speed for Oahu.  I think it would be advantageous to replicate the statistical approach we took towards the temperatures of Oahu and apply that to consider the maximum wind speed, minimum wind speed, and mean wind speed during the months of June and December.  The last thing we want is to not be able to surf due to hazardous wind speeds as well as our ice cream getting blown off our waffle cone.<br><br>
 
-
-This exercise and analysis has been turned into a solidifed and repeatable process for W. Avy. In the future, this study ensures that the process can be duplicated when we need to figure out where to open the second surf and ice cream shop. It looks like W. Avy will be able to have his ice cream and eat it too. 
+**Recommendation**
+This exercise and analysis has been turned into a solidifed and repeatable process for W. Avy. Without hesitation, I support and encourage W. Avy to move forward with his business venture.  In the future, this study ensures that the process can be duplicated when we need to figure out where to open the second surf and ice cream shop. It looks like W. Avy will be able to have his ice cream and eat it too. 
 
