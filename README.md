@@ -43,7 +43,7 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 ## Summary<br><br>
 
-Knowing the facts from above this data should not give W. Avy pause in preceding forward as the statistics endorse year-round participation for surfing and ice cream.  The statisical temperature catergories we ran for Oahu show W. Avy that the temperatures are consistently coupled within the two months analzyed.  The outside temperatures support  enjoyment will be had by all but conversely, one should ponder if the water temperatures are as predicitable and pleasant as the outside temperatures in Oahu.  What I believe W. Avy needs to consider before renting his first surfboard and/or selling his first ice cream to his first customer, would be the particulars around monthly precipitation and monthly wind speed.  In my final recommendation, I would advise running those two additional queries.<br><br>
+Knowing the facts from above this data should not give W. Avy pause in preceding forward as the statistics endorse year-round participation for surfing and ice cream.  The statisical temperature catergories we ran for Oahu show W. Avy that the temperatures are consistently coupled within the two months analzyed.  The outside temperatures support  enjoyment will be had by all but conversely, one should ponder if the water temperatures are as predicitable and pleasant as the outside temperatures in Oahu.  What I believe W. Avy needs to consider before renting his first surfboard and/or selling his first ice cream to his first customer, would be to investigate the particulars around monthly precipitation and monthly wind speed.  In my final recommendation, I would advise running those two additional queries.<br><br>
 
 **Precipitation**<br>
 
