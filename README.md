@@ -19,13 +19,13 @@ Remembering back to previous conversations with W. Avy, has mentioned in the pas
 
 **June Temperatures**<br>
 
-The results show for June that the low (minimum) temperature is 64 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is ~ 75 degrees.<br>  
+The results show for June that the low (minimum) temperature is 64 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is ~75 degrees.<br>  
 
 ![june_stats](june_stats.png)<br>
 
 **December Temperatures**<br>
 
-Furthermore, the results show for December that the low (minimum) temperature is 56 degrees, the high (maximum) temperature is 83 degrees, and the average temperature is ~ 71 degrees.<br>
+Furthermore, the results show for December that the low (minimum) temperature is 56 degrees, the high (maximum) temperature is 83 degrees, and the average temperature is ~71 degrees.<br>
 
 ![december_stats](december_stats.png)<br>
 
