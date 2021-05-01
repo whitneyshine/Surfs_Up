@@ -42,11 +42,11 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 
 ## Summary<br><br>
-**Precipitation**<br><br>
+**Precipitation**<br>
 
 Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.  You know that you can set W. Avy's mind at ease by analyzing precipitation levels and showing him the cold, hard, data that backs up Oahu as the perfect place to surf. You have the last 12 months of precipitation data already loaded into your SQLite database, so you are ready to go.<br><br>
 
-**Wind Speed**<br><br>
+**Wind Speed**<br>
 
 
 W. Avy supplied you with the data he wants us to use and has asked you to look at a full year of data. When deciding how to parse the data, you remember that his favorite day is August 23, 2017 because it's the anniversary of the first time he ever went surfing and had ice cream on the same day.  This will help solidify a repeatable process and make it easier to run this analysis again — for example, when we need to figure out where to open our second surf and ice cream shop.  
