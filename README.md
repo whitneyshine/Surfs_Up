@@ -9,7 +9,7 @@ W. Avy has appreciated the analysis, but he wants more information about tempera
 ## Overview of the Analysis<br><br>
 **Approach**<br>
 
-Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. I then converted those temperatures to a list, created a DataFrame from said list, and have generated a summary statistics.<br>
+Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. I then converted those temperatures to a list (I needed to add the .all() function to the end of my query so that the results are returned as a list), created a DataFrame from said list, and have generated a summary statistics.<br>
 
 **Goal**<br>
 
