@@ -25,7 +25,7 @@ The results show for June that the low (minimum) temperature is 64 degrees, the 
 
 **December Temperatures**<br>
 
-Furthermore, the results show for December that the low (minimum) temperature is 56 degrees, the high (maximum) temperature is 83 degrees, and the average temperature is ~71 degrees.<br>
+Furthermore, the results show for December that the low (minimum) temperature is 56 degrees, the high (maximum) temperature is 83 degrees, and the average (mean) temperature is ~71 degrees.<br>
 
 ![december_stats](december_stats.png)<br>
 
