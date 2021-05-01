@@ -1,4 +1,5 @@
-# Surfs_Up
+# Surfs_Up<br>
+![Surfs_up_cover_tile](Surfs_up_cover_tile.png)<br><br>
 
 ## Background<br>
 
