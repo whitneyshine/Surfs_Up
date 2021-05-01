@@ -38,12 +38,13 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 •	June’s mean temperature is 3.9 degrees higher than December’s mean temperature.  Now what does that mean?  With the mean temperature for June being ~75 degrees and the mean temperature registered in December calculated at ~71 degrees, these temperatures support a near year-round surf environment.<br><br>
 •	We have 183 more readings from June (1,700) than we do for December (1,517).  Not knowing where those temperatures would have registered and been recorded for December, or why they were not observed, we must give thought as to if this might materially impact our statistical analysis for the month of December temperatures.<br><br>
 •	The bellwether that we have discovered is that the maximum temps for June and December are remarkably close in degrees and near perfect for ice cream weather.  June has a maximum temperature of 85 degrees while December registers a maximum temperature of 83 degrees.<br><br>
-•	A crucial statistic we calculated for the two months in question are the minimum temperatures.  Respectfully, the documented minimum temperature for June is 64 degrees and December records a minimum temperature of 56 degrees.  Knowing the facts from above, coupled with the minimum temperature data, this should not give W. Avy pause in preceding forward as the two other temperature statistics (maximum temperature and mean temperature), endorse year-round participation for surfing and ice cream.<br><br>
+•	A crucial statistic we calculated for the two months in question are the minimum temperatures.  Respectfully, the documented minimum temperature for June is 64 degrees and December records a minimum temperature of 56 degrees.  
 
 
 ## Summary<br><br>
 
 **Recommendation**<br>
+Knowing the facts from above this data should not give W. Avy pause in preceding forward as the statistics endorse year-round participation for surfing and ice cream.  The statisical temperature catergories we ran for Oahu show W. Avy that the temperatures are consistently coupled within the two months analzyed.  The outside temperatures support the enjoyment to be had by all but one should ponder as well if the water temperatures are as predicitable and pleasant as the outside temperatures.  What I believe W. Avy needs to considered before renting his first surfboard out and/or selling his first ice cream, would be the factors involved around monthly precipitation and monthly wind speed as I recommend running those two additional queries.<br><br>
 
 **Precipitation**<br>
 
