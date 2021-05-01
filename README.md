@@ -13,9 +13,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the 
 
 **Goal**<br>
 
-Remembering back to previous conversations with W. Avy, has mentioned in the past that he does not just want to see a list of data results; he wants to understand trends in the data.  In that manner, I agree with W. Avy that the overall goal is to provide insight into the weather/temperature patterns of a specific location on Oahu where he would like to build his shop. I created a histogram from the temperature observations as thhis will allow us to quickly count how many temperature observations we have.  This information paired alongside the data statistics will provide insight through visualization of the temperature analysis.<br>
-
-Let's not forget, the goal of the exercise is not just to crunch the numbers — it is to deliver W. Avy with facts to solidfy his impending decision and investment.<br><br>
+Remembering back to previous conversations with W. Avy, has mentioned in the past that he does not just want to see a list of data results; he wants to understand trends in the data.  In that manner, I agree with W. Avy that the overall goal is to provide insight into the weather/temperature patterns of a specific location on Oahu where he would like to build his shop. I created a histogram from the temperature observations as thhis will allow us to quickly count how many temperature observations we have.  This information paired alongside the data statistics will provide insight through visualization of the temperature analysis.  Let's not forget, the goal of the exercise is not just to crunch the numbers — it is to deliver W. Avy with facts to solidfy his impending decision and investment.<br><br>
 
 ## Results<br><br>
 
