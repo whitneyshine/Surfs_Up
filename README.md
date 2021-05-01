@@ -52,6 +52,6 @@ Now, let us think about precipitation. There needs to be enough rain to keep eve
 **Wind Speed**<br><br>
 Seeing that we are nearly convinced of opening the surf and ice cream shop, let us consider assessing the wind speed for Oahu.  I think it would be advantageous to replicate the statistical approach we took towards the temperatures of Oahu and apply that to consider the maximum wind speed, minimum wind speed, and mean wind speed during the months of June and December.  The last thing we want is to not be able to surf due to hazardous wind speeds as well as our ice cream getting blown off our waffle cone.<br><br>
 
-**Recommendation**
+**Recommendation**<br><br>
 This exercise and analysis has been turned into a solidifed and repeatable process for W. Avy. Without hesitation, I support and encourage W. Avy to move forward with his business venture.  In the future, this study ensures that the process can be duplicated when we need to figure out where to open the second surf and ice cream shop. It looks like W. Avy will be able to have his ice cream and eat it too. 
 
