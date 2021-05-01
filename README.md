@@ -31,7 +31,7 @@ Furthermore, the results show for December that the low (minimum) temperature is
 
 **Three Key Differences**<br>
 
-Looking at this plot, we can infer that a vast majority of the observations are over 65 degrees.   Because of that, let's dive into the statistical data we have complied for him pertaining to the months of June and December.<br><br>
+Looking at this plot, we can infer that a vast majority of the observations are over 65 degrees.   Because of that, let's dive into the statistical data we have complied for him pertaining to the months of June and December as well as note three key differences we have become aware of.<br><br>
 
 ![june_temps_graph](june_temps_graph.png)       ![december_temps_graph](december_temps_graph.png)<br>
 
