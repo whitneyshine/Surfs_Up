@@ -42,6 +42,9 @@ Looking at this plot, we can infer that a vast majority of the observations are 
 
 
 ## Summary<br><br>
+
+**Recommendation**
+
 **Precipitation**<br>
 
 Now, let us think about precipitation. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.  You know that you can set W. Avy's mind at ease by analyzing precipitation levels and showing him the cold, hard, data that backs up Oahu as the perfect place to surf. You have the last 12 months of precipitation data already loaded into your SQLite database, so you are ready to go.<br><br>
